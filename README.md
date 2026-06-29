@@ -2,7 +2,9 @@
 
 PyBe is a scenario-driven Python learning prototype built from the supplied PRD and breakdown document. It has no login flow for now.
 
-📚 View the project wiki: [WIKI.md](WIKI.md)
+📚 **Full documentation:** [docs/README.md](docs/README.md)
+
+📚 **View the project wiki:** [WIKI.md](WIKI.md)
 
 ## Features
 
