@@ -1,7 +1,7 @@
 {
   "scenarios": [
     {
-      "_id": "ed7aa902-753a-4b32-ba4e-b8dece9c1c18",
+      "_id": "8d2e9566-cd67-4482-a2a5-c7b57f983c0c",
       "title": "Bag Weight Label",
       "difficulty": "Beginner",
       "concepts": [
@@ -16,11 +16,11 @@
       ],
       "sampleReasoning": "I only need to remember the bag weight, so I would store it with a clear name.",
       "effectivenessScore": 96,
-      "createdAt": "2026-08-02T08:34:18.815Z",
-      "updatedAt": "2026-08-02T08:34:18.815Z"
+      "createdAt": "2026-08-09T07:55:16.567Z",
+      "updatedAt": "2026-08-09T07:55:16.567Z"
     },
     {
-      "_id": "4b806327-89d9-4d4d-8b91-2930e7895708",
+      "_id": "de83f155-a984-43c9-90ad-62e30c54df55",
       "title": "Rainy Day Choice",
       "difficulty": "Beginner",
       "concepts": [
@@ -35,11 +35,11 @@
       ],
       "sampleReasoning": "If it is raining, carry an umbrella. Otherwise, leave it at home.",
       "effectivenessScore": 95,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "84f5cf68-4eab-4bb9-a4e3-77efed0d9ed2",
+      "_id": "81d0753f-0aca-4d76-bb58-ab738fd1653f",
       "title": "Two Snack Prices",
       "difficulty": "Beginner",
       "concepts": [
@@ -55,11 +55,11 @@
       ],
       "sampleReasoning": "I would keep the two prices separately and add them to get the total.",
       "effectivenessScore": 94,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "4f5d0a67-b9e6-4940-acfb-7146a0205af4",
+      "_id": "08c42975-eca9-4ecc-9bb5-9e574d83482b",
       "title": "Greeting by Name",
       "difficulty": "Beginner",
       "concepts": [
@@ -75,11 +75,11 @@
       ],
       "sampleReasoning": "The computer should store the learner name and place it inside a greeting sentence.",
       "effectivenessScore": 93,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "2953ec0d-0d49-4626-9822-cbe1aaa645fc",
+      "_id": "8ecc024b-8fcb-4726-b1d3-b369d15cd58e",
       "title": "Pass Mark Check",
       "difficulty": "Beginner",
       "concepts": [
@@ -95,11 +95,11 @@
       ],
       "sampleReasoning": "I would compare the score with the pass mark and decide pass if it is high enough.",
       "effectivenessScore": 92,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "def74532-499b-43e7-abee-dbb6e03c8681",
+      "_id": "ef69d41d-bc71-426d-9098-41252f79498f",
       "title": "Pocket Money Left",
       "difficulty": "Beginner",
       "concepts": [
@@ -115,11 +115,11 @@
       ],
       "sampleReasoning": "Start with the original money, subtract the spent amount, and store what remains.",
       "effectivenessScore": 91,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "1e86c1e2-71c1-4188-9e44-ef36b5c049e4",
+      "_id": "cd6df59a-a106-4164-9955-f19817fea916",
       "title": "Favorite Color List",
       "difficulty": "Beginner",
       "concepts": [
@@ -134,11 +134,11 @@
       ],
       "sampleReasoning": "Since all values are colors, I would keep them together in one list.",
       "effectivenessScore": 90,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "023ea071-3fb9-4b2e-8a0e-d132fcd747db",
+      "_id": "1c1b3b69-a22f-4e19-bdb1-f03ee717051b",
       "title": "First Item in a Bag",
       "difficulty": "Beginner",
       "concepts": [
@@ -154,11 +154,11 @@
       ],
       "sampleReasoning": "The first item is based on its position in the ordered group.",
       "effectivenessScore": 89,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "d7bfa8c0-c6fb-4b48-8f58-d4b7049401bd",
+      "_id": "a8000d50-3196-4b8d-9cdb-2f78199c64e9",
       "title": "Attendance Count",
       "difficulty": "Beginner",
       "concepts": [
@@ -174,11 +174,11 @@
       ],
       "sampleReasoning": "I would count how many names are in the present-students list.",
       "effectivenessScore": 88,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "a9a9b30b-d50d-4997-b85f-7d8a671fdf67",
+      "_id": "7a057b8f-9427-4c8f-ba43-a69cf3e30947",
       "title": "Temperature Message",
       "difficulty": "Beginner",
       "concepts": [
@@ -194,11 +194,11 @@
       ],
       "sampleReasoning": "If the temperature is above the threshold, show Hot; otherwise show Comfortable.",
       "effectivenessScore": 87,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "a35d0805-0ed2-4cd9-8e60-acf013019c70",
+      "_id": "37c605a6-bc0b-4c76-b0eb-3ef79d3f8655",
       "title": "Water Bottle Reminder",
       "difficulty": "Explorer",
       "concepts": [
@@ -213,11 +213,11 @@
       ],
       "sampleReasoning": "For every break, show the same water reminder.",
       "effectivenessScore": 96,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "2fbeb9cc-c53d-440f-a224-c420704ea758",
+      "_id": "59ca780b-a0eb-463c-90e1-b3958c7579df",
       "title": "Find the Longest Pencil",
       "difficulty": "Explorer",
       "concepts": [
@@ -233,11 +233,11 @@
       ],
       "sampleReasoning": "Start with one pencil as the longest, then compare each next pencil against it.",
       "effectivenessScore": 95,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "157bc401-7a28-4ec8-abd9-9eb0ec4f4e58",
+      "_id": "940f0f5a-c9e6-4d00-a1c3-e16a1522a411",
       "title": "Clean Chore Checklist",
       "difficulty": "Explorer",
       "concepts": [
@@ -253,11 +253,11 @@
       ],
       "sampleReasoning": "Put chores in a list and handle each chore one by one.",
       "effectivenessScore": 94,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "37225336-27cd-495e-ae65-18c5d4d7919f",
+      "_id": "6357eda8-932c-422c-9a66-455a97d8bd6c",
       "title": "Movie Age Filter",
       "difficulty": "Explorer",
       "concepts": [
@@ -273,11 +273,11 @@
       ],
       "sampleReasoning": "For each movie, keep it only if the learner age is at least the minimum age.",
       "effectivenessScore": 93,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "10c627db-1b45-4f23-bb34-66dea12c2172",
+      "_id": "a7d11a9b-0a08-4f78-8920-a4013f56185f",
       "title": "Classroom Supply Lookup",
       "difficulty": "Explorer",
       "concepts": [
@@ -292,11 +292,11 @@
       ],
       "sampleReasoning": "Each supply has a count, so I would store supply names as keys with counts as values.",
       "effectivenessScore": 92,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "661c5097-6014-4862-8fd2-744b61faa5b3",
+      "_id": "442d1b31-13f3-496f-8a51-52a489da8248",
       "title": "Bus Stop Search",
       "difficulty": "Explorer",
       "concepts": [
@@ -312,11 +312,11 @@
       ],
       "sampleReasoning": "Look at each stop and compare it with the stop I want.",
       "effectivenessScore": 91,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "9f602186-02f8-45fd-b68b-fc9f599fc433",
+      "_id": "d94fc599-b88d-4ec1-80d2-b46bc2d93fc7",
       "title": "Average Practice Score",
       "difficulty": "Explorer",
       "concepts": [
@@ -332,11 +332,11 @@
       ],
       "sampleReasoning": "Find the total of all scores, count how many scores there are, then divide.",
       "effectivenessScore": 90,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "af9fb1b3-b48d-4cb2-862d-5be3a2062c0f",
+      "_id": "3aca13eb-b2a4-4363-a5c6-a856180c207f",
       "title": "Separate Even Roll Numbers",
       "difficulty": "Explorer",
       "concepts": [
@@ -352,11 +352,11 @@
       ],
       "sampleReasoning": "A roll number is even if dividing by two leaves no remainder.",
       "effectivenessScore": 89,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "438c34f1-e829-4174-a7ef-3abda1606d6b",
+      "_id": "6a67842e-68b5-4147-a6bc-a9ef43c612c0",
       "title": "Capitalize Name Tags",
       "difficulty": "Explorer",
       "concepts": [
@@ -372,11 +372,11 @@
       ],
       "sampleReasoning": "For each name, convert it to title case before printing the tag.",
       "effectivenessScore": 88,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "0d4401dd-48d7-4848-a550-93514b032331",
+      "_id": "f7fc2f8d-44f6-40a6-aa60-0ea80de2abb6",
       "title": "Find Missing Homework",
       "difficulty": "Explorer",
       "concepts": [
@@ -392,11 +392,11 @@
       ],
       "sampleReasoning": "Take everyone in the class and remove the students who submitted.",
       "effectivenessScore": 87,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "5714d319-12f3-4aa0-92ab-9f8b57abd944",
+      "_id": "e4a86618-8b9a-4f03-984e-27a295308402",
       "title": "Reusable Discount Rule",
       "difficulty": "Builder",
       "concepts": [
@@ -412,11 +412,11 @@
       ],
       "sampleReasoning": "The helper needs the bill amount and should return the final price after applying the rule.",
       "effectivenessScore": 96,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "a8ff733f-45b5-4396-99e8-4aad113d5a9b",
+      "_id": "97079f3f-e170-4fe9-98ce-e84f42659036",
       "title": "Mini Quiz Checker",
       "difficulty": "Builder",
       "concepts": [
@@ -432,11 +432,11 @@
       ],
       "sampleReasoning": "Compare the learner answer with the correct answer and return whether they match.",
       "effectivenessScore": 95,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "764675e4-d16a-4370-930b-a0ca0bdb4fb6",
+      "_id": "03042b5d-e1ef-475c-861a-54198ed95ddc",
       "title": "Step Counter Function",
       "difficulty": "Builder",
       "concepts": [
@@ -452,11 +452,11 @@
       ],
       "sampleReasoning": "The function should take step counts, add them, and give back the total.",
       "effectivenessScore": 94,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "4e7cf6f1-3d8f-45d9-bffa-53650b571025",
+      "_id": "c866ac2f-b09e-46a5-93ac-e871aca1e65e",
       "title": "Safe Username Maker",
       "difficulty": "Builder",
       "concepts": [
@@ -472,11 +472,11 @@
       ],
       "sampleReasoning": "Make the name lowercase and remove spaces so it can be used as a username.",
       "effectivenessScore": 93,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "57f45956-030b-44ee-ace1-80b3c2b66fea",
+      "_id": "f858aa68-8807-4853-9838-e55ca751b75d",
       "title": "Retry Until Valid",
       "difficulty": "Builder",
       "concepts": [
@@ -492,11 +492,11 @@
       ],
       "sampleReasoning": "Keep asking while the number is not positive, then stop once it is valid.",
       "effectivenessScore": 92,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "6bfb1d6c-abe1-4ddc-8093-1c9102b90caa",
+      "_id": "a0344386-072d-4e6b-a499-218be73ed607",
       "title": "Simple Score Report",
       "difficulty": "Builder",
       "concepts": [
@@ -512,11 +512,11 @@
       ],
       "sampleReasoning": "Return a dictionary with the learner name and score as labeled values.",
       "effectivenessScore": 91,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "f2d70533-aef4-419d-aff1-51bd3082cf8b",
+      "_id": "06a0cdb7-8e5a-4eb9-8ff9-6992dd493c7b",
       "title": "Task Status Updater",
       "difficulty": "Builder",
       "concepts": [
@@ -532,11 +532,11 @@
       ],
       "sampleReasoning": "Find the task by name and change its status from pending to done.",
       "effectivenessScore": 90,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "43a706df-2ae0-45f3-bba5-1e6fcf5ccbdc",
+      "_id": "5990eff8-297d-44d7-b235-74eda83b6beb",
       "title": "Small Receipt Builder",
       "difficulty": "Builder",
       "concepts": [
@@ -552,11 +552,11 @@
       ],
       "sampleReasoning": "Combine the item name and price into one clear sentence.",
       "effectivenessScore": 89,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "64ff6d76-6974-4920-ab13-81437adfc5eb",
+      "_id": "9fd49fd3-9f7c-45e5-8b40-ca1c4f66283a",
       "title": "Choose Next Scenario",
       "difficulty": "Builder",
       "concepts": [
@@ -572,11 +572,11 @@
       ],
       "sampleReasoning": "If the score is high choose harder, if low choose easier, otherwise stay similar.",
       "effectivenessScore": 88,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "91864e94-7d4e-4c32-b9d5-d4e5f69f4486",
+      "_id": "e31e0fd2-0041-4988-a6e0-8574f765cabe",
       "title": "Reflection Keyword Finder",
       "difficulty": "Builder",
       "concepts": [
@@ -592,13 +592,13 @@
       ],
       "sampleReasoning": "Look for words like confused or stuck and flag the reflection if they appear.",
       "effectivenessScore": 87,
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     }
   ],
   "debugChallenges": [
     {
-      "_id": "0e12ba0e-69cf-4fbd-accc-ca7126e74b87",
+      "_id": "9af3a645-02ed-410b-8092-fe042d47598a",
       "title": "List Slicing Error",
       "difficulty": "Explorer",
       "concepts": [
@@ -623,11 +623,11 @@
           "expectedOutput": "['fishing', 'cycling']"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "228d3f31-078a-45a5-bd92-d3526ca33794",
+      "_id": "91985e33-9c59-4b94-ad3a-1c52ad56137a",
       "title": "List Append Error",
       "difficulty": "Builder",
       "concepts": [
@@ -652,11 +652,11 @@
           "expectedOutput": "['reading', 'hiking', 'swimming', 'gaming']"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "18f6066a-65ce-4e60-a4ba-a1db53ac4087",
+      "_id": "9b2b3a54-4c6d-432a-b305-b1695728f68a",
       "title": "List Insertion Error",
       "difficulty": "Builder",
       "concepts": [
@@ -681,11 +681,11 @@
           "expectedOutput": "['gaming', 'reading', 'hiking', 'swimming']"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "7cf2eb74-ab2f-42a2-aae3-7e60a58ccc50",
+      "_id": "3e2c7134-f1f2-4fd2-a05b-7205bbe08f82",
       "title": "Indexing Issue",
       "difficulty": "Explorer",
       "concepts": [
@@ -715,11 +715,11 @@
           "expectedOutput": "88.0"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "ba0c692f-0019-44ac-8b44-3118767b6158",
+      "_id": "79216cb6-fa4e-4b87-90fb-30b46397a080",
       "title": "List Modification Issue",
       "difficulty": "Beginner",
       "concepts": [
@@ -746,11 +746,11 @@
           "expectedOutput": "\"[\"phone\",\"tablet\"]\""
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "330b989a-de30-4b35-b88c-c799af5cb801",
+      "_id": "5759389e-3738-4774-ba28-c15323d48363",
       "title": "Infinite Loop",
       "difficulty": "Beginner",
       "concepts": [
@@ -774,11 +774,11 @@
           "expectedOutput": ""
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "faa308aa-890d-4f92-b963-8635e8ca17b2",
+      "_id": "c49ce924-39d0-4582-9e41-197f65d8c83b",
       "title": "Print Numbers",
       "difficulty": "Explorer",
       "concepts": [
@@ -803,11 +803,11 @@
           "expectedOutput": "1\n3\n5\n7\n9"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "f7047619-89ec-415d-93d5-c8bc91958037",
+      "_id": "23d13650-0be4-4128-a021-39067d914aed",
       "title": "Prime Numbers",
       "difficulty": "Builder",
       "concepts": [
@@ -833,11 +833,11 @@
           "expectedOutput": "2\n3\n5\n7\n11\n13\n17\n19\n23"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "dadaa2ba-eafe-47bb-8fc6-5caee0cde7a0",
+      "_id": "c8f63506-4434-4e9d-9610-3ae6db11f4b3",
       "title": "FizzBuzz",
       "difficulty": "Explorer",
       "concepts": [
@@ -862,11 +862,11 @@
           "expectedOutput": "1\n2\nFizz\n4\nBuzz\nFizz\n7\n8\nFizz\nBuzz\n11\nFizz\n13\n14\nFizzBuzz"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "e31d8f4a-f074-4bcc-84cd-0753e9e1bc53",
+      "_id": "bf569fa4-227a-4834-8db2-1ff85866c651",
       "title": "Divisible by 5 Loop",
       "difficulty": "Explorer",
       "concepts": [
@@ -894,11 +894,11 @@
           "expectedOutput": "55\n60\n65\n70\n75\n80\n85\n90\n95\n100"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "0715604a-37a2-44c9-aef5-679ae0f0a45d",
+      "_id": "5c8bbbeb-1ec1-4e33-b549-a71e0363a954",
       "title": "Last Index of a Substring",
       "difficulty": "Beginner",
       "concepts": [
@@ -928,11 +928,11 @@
           "expectedOutput": "2\n-1"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "97641c32-e5c7-4fb5-82fe-f879ee083e5f",
+      "_id": "d56cff98-272f-4acb-853a-505717795a73",
       "title": "Remove Extra Spaces",
       "difficulty": "Beginner",
       "concepts": [
@@ -961,11 +961,11 @@
           "expectedOutput": "hello\nhello"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "b013eb69-e217-49b8-b2b0-151ec0247d68",
+      "_id": "cd2ba19d-d37e-4a1f-933c-ad92a7ef5197",
       "title": "Palindrome Check",
       "difficulty": "Explorer",
       "concepts": [
@@ -994,11 +994,11 @@
           "expectedOutput": "True\nFalse"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "376af0b2-1dad-496d-a5e1-d27ad6fd7d5b",
+      "_id": "482a0291-9bb7-4b75-85e0-65e50c12083f",
       "title": "Replace Spaces with Underscores",
       "difficulty": "Builder",
       "concepts": [
@@ -1026,11 +1026,11 @@
           "expectedOutput": "hello_world\nhello"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "83d99a48-cbc4-410d-ad1b-98b634fba8da",
+      "_id": "0c8cca3d-d198-4ecb-ab46-dfe45e577a81",
       "title": "String Comparison Issue",
       "difficulty": "Beginner",
       "concepts": [
@@ -1055,11 +1055,11 @@
           "expectedOutput": "True"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "f101971a-a11c-4f9d-aada-8ef71dbc3d6b",
+      "_id": "c59604d3-d9f9-45bc-914c-5c9c39ce63a6",
       "title": "Incorrect Variable Assignment",
       "difficulty": "Beginner",
       "concepts": [
@@ -1090,11 +1090,11 @@
           "expectedOutput": "Hello User!"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "406fde85-0d97-4c63-81db-9c155f822ee4",
+      "_id": "2a5d1b7a-aaca-4f15-9123-35d341a149e4",
       "title": "Incorrect Variable Scoping",
       "difficulty": "Explorer",
       "concepts": [
@@ -1126,11 +1126,11 @@
           "expectedOutput": "10"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "97cdb3ab-a312-4e88-9dcd-2c9ee29da15d",
+      "_id": "76913822-e1fb-4b00-b1fa-140ea0b0ec31",
       "title": "Incorrect Variable Naming",
       "difficulty": "Builder",
       "concepts": [
@@ -1161,11 +1161,11 @@
           "expectedOutput": "5"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "6172cfcb-44fb-4740-aa78-a3f933a91135",
+      "_id": "a86a6cad-5892-40e8-8a48-dc4cc93fad20",
       "title": "Incorrect Variable Type",
       "difficulty": "Builder",
       "concepts": [
@@ -1196,11 +1196,11 @@
           "expectedOutput": "125.0"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.568Z",
+      "updatedAt": "2026-08-09T07:55:16.568Z"
     },
     {
-      "_id": "bfca8ece-6ee5-4c47-824f-11d58b298f8f",
+      "_id": "da7d2381-d6b6-48f1-97f7-76a45c562dc6",
       "title": "Incorrect Initializer for Counter",
       "difficulty": "Beginner",
       "concepts": [
@@ -1232,11 +1232,11 @@
           "expectedOutput": "11"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "b274736e-1e2a-4a71-a561-3861df677630",
+      "_id": "0c283b9c-7f78-45a3-a4d3-46d78bbbb9a0",
       "title": "Slicing a List with Odd Indexing",
       "difficulty": "Beginner",
       "concepts": [
@@ -1260,11 +1260,11 @@
           "expectedOutput": "[90, 85, 92]"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "790abde4-e0e5-469e-afd6-6678e60fc174",
+      "_id": "89c1459a-1a9f-44a5-a4a2-b2aeeec54520",
       "title": "Slicing a String",
       "difficulty": "Explorer",
       "concepts": [
@@ -1289,11 +1289,11 @@
           "expectedOutput": "JohnD"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "cd02b816-589e-4ce1-8f2a-2c1c6beb012f",
+      "_id": "1872801b-425a-4baf-a990-27a91ef9d1ab",
       "title": "Slicing a List with Negative Indexing",
       "difficulty": "Builder",
       "concepts": [
@@ -1317,11 +1317,11 @@
           "expectedOutput": "[40, 50]"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "d63db229-f386-4ee6-9527-93aaf7cdae65",
+      "_id": "4a1eadad-0881-44de-9fc1-ee54d975f782",
       "title": "Slicing a Multi-Dimensional List",
       "difficulty": "Builder",
       "concepts": [
@@ -1346,11 +1346,11 @@
           "expectedOutput": "[[5, 6, 7], [9, 10, 11]]"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "77abe5c7-ed1d-415f-955d-71c65a3038a2",
+      "_id": "4958436b-afb2-41b2-93f1-bff275c4b18b",
       "title": "Slice and Dice",
       "difficulty": "Beginner",
       "concepts": [
@@ -1379,11 +1379,11 @@
           "expectedOutput": "[88, 92, 95]"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "85fdfc5f-c799-4711-bb4c-ad35d40922fa",
+      "_id": "33a30199-42e5-481c-a328-3d52b8f20507",
       "title": "Divide and Conquer",
       "difficulty": "Beginner",
       "concepts": [
@@ -1412,11 +1412,11 @@
           "expectedOutput": "2"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "2a3d2e36-0883-41a0-b0f3-be8f716b1745",
+      "_id": "4f7b6302-2e65-4bab-93da-664b4955100c",
       "title": "Rounding Up",
       "difficulty": "Explorer",
       "concepts": [
@@ -1448,11 +1448,11 @@
           "expectedOutput": "31"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "fb5bc984-09a2-49a3-9bf9-833a9a4c8c69",
+      "_id": "15cc650e-39b7-4fc2-a7ca-618889ac9a7d",
       "title": "Floating Point Arithmetic",
       "difficulty": "Builder",
       "concepts": [
@@ -1481,11 +1481,11 @@
           "expectedOutput": "16.6"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "117bd813-e60f-4e7d-9a17-7059e0d1ff63",
+      "_id": "7eb6bd0c-628e-47f7-85b3-0b400368a163",
       "title": "Integer Division",
       "difficulty": "Beginner",
       "concepts": [
@@ -1514,11 +1514,11 @@
           "expectedOutput": "3"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "60cc983c-7636-4ba2-8e54-99429b336d81",
+      "_id": "9db2bdf4-bffb-4f5c-8783-c30eef8302a5",
       "title": "Arithmetic Error: Incorrect Division",
       "difficulty": "Beginner",
       "concepts": [
@@ -1546,11 +1546,11 @@
           "expectedOutput": "2.5"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "39d5c208-b735-46f3-a450-e410c396451b",
+      "_id": "b27291f9-f987-4deb-989f-7cbfd880d04c",
       "title": "Favoriting Songs",
       "difficulty": "Beginner",
       "concepts": [
@@ -1583,11 +1583,11 @@
           "expectedOutput": "{'Song A': 5, 'Song B': 4, 'Song C': 6}"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "746df061-44fa-497b-8e63-02533b5e042d",
+      "_id": "6e08dda5-e380-48e5-b803-c644486c441d",
       "title": "Comparing Student Grades",
       "difficulty": "Explorer",
       "concepts": [
@@ -1618,11 +1618,11 @@
           "expectedOutput": "{'Math': 'Alice', 'Science': 'Bob'}"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "d4cac356-2cb7-43cd-ad52-6193fa93b73f",
+      "_id": "d4d0fc49-2db2-45bb-bd91-553e98b5f225",
       "title": "Finding the Smallest Number",
       "difficulty": "Explorer",
       "concepts": [
@@ -1652,11 +1652,11 @@
           "expectedOutput": "3"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "b9acb9c9-f7f2-465e-bd0c-ee588d4f4687",
+      "_id": "48755c50-5a6d-46fc-b25d-e64ca67c25cb",
       "title": "Comparing Integers",
       "difficulty": "Explorer",
       "concepts": [
@@ -1688,11 +1688,11 @@
           "expectedOutput": "greater\nequal\nless"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "5f35640a-dc59-4ae3-b4ce-df372dcbbf08",
+      "_id": "b6af6ff3-816a-405d-84bd-19b14cd1ef6d",
       "title": "Comparing Strings",
       "difficulty": "Beginner",
       "concepts": [
@@ -1724,11 +1724,11 @@
           "expectedOutput": "alphabetically_before\nalphabetically_before\nequal"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "5500343a-d256-4863-adc8-ab5c01b8e9dd",
+      "_id": "37aba1bb-0eb1-4512-94e6-bb3c5dc18b8f",
       "title": "Using Conditional Statements with Multiple Conditions",
       "difficulty": "Builder",
       "concepts": [
@@ -1757,11 +1757,11 @@
           "expectedOutput": "Grade: B"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "0685bc2b-d10e-4663-8bc3-337d05d934e6",
+      "_id": "c7f925bb-4029-4427-a2a3-26fd1da40fc5",
       "title": "Even or Odd Number",
       "difficulty": "Beginner",
       "concepts": [
@@ -1789,11 +1789,11 @@
           "expectedOutput": "The number is odd"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "a6bab7ea-44e8-4533-9e57-d226d1217928",
+      "_id": "f9e89dfd-aff7-4134-adb3-46777fc1ae3c",
       "title": "Guess My Number",
       "difficulty": "Explorer",
       "concepts": [
@@ -1818,11 +1818,11 @@
           "expectedOutput": "Guess a number between 1 and 100: 50\nToo low\nGuess a number between 1 and 100: 75\nToo high"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "1d5ba808-d02e-4c71-a6ff-3a8f287c8c71",
+      "_id": "24dba5ea-7a2c-483d-867e-f415451c97fd",
       "title": "Simple Calculator",
       "difficulty": "Builder",
       "concepts": [
@@ -1847,11 +1847,11 @@
           "expectedOutput": "Enter a mathematical expression: 2+3\nResult: 5"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "537220af-4261-42e0-9a95-c13749b44150",
+      "_id": "21e30af6-1904-4cca-bbff-1df62d22d89d",
       "title": "Weather Alert System",
       "difficulty": "Beginner",
       "concepts": [
@@ -1881,11 +1881,11 @@
           "expectedOutput": "It's freezing"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "f821a59d-384c-4043-90b4-dfe575f89dab",
+      "_id": "399b115b-6d07-4ac7-969f-d5a285192b62",
       "title": "Fizz Buzz Counter",
       "difficulty": "Beginner",
       "concepts": [
@@ -1909,11 +1909,11 @@
           "expectedOutput": "1\n2\nFizz\n4\nBuzz\nFizz\n7\n8\nFizz\nBuzz\n11\nFizz\n13\n14\nFizzBuzz\n16\n17\nFizz\n19\nBuzz\nFizz\n22\n23\nFizz\nBuzz\n26\n27\nFizz\n29\n30\nFizzBuzz\n"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "a708b978-03a5-4944-a54e-ed330e8c0a02",
+      "_id": "8cc06094-e7bb-49f6-b0e6-12a68092793d",
       "title": "Conditional Logic Loop",
       "difficulty": "Explorer",
       "concepts": [
@@ -1937,11 +1937,11 @@
           "expectedOutput": "1\nLess than 5\n3\nLess than 5\n5\n6\nLess than 5\n8\nLess than 5\n10\n"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "d31e9048-a593-48f0-9a1e-af7f5106ba25",
+      "_id": "b52b5704-6115-4e67-8c59-e0118d73b7d0",
       "title": "Nested Conditional Logic",
       "difficulty": "Builder",
       "concepts": [
@@ -1965,11 +1965,11 @@
           "expectedOutput": "1\nEven Less than 5\n3\nLess than 5\n5\n6\nEven Less than 5\n8\nLess than 5\n10\n"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "5014d207-43b3-48b7-a59a-80dd27a69bfd",
+      "_id": "e20fb877-bfef-41db-903c-7347819a1ddd",
       "title": "While Loop with Break",
       "difficulty": "Builder",
       "concepts": [
@@ -1993,11 +1993,11 @@
           "expectedOutput": "1\n2\n3\n4\n5\n"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "e2e9d5e6-3464-48d7-ae54-30ac772799a2",
+      "_id": "456d57c8-f549-4848-8b0e-3f8b163c8cee",
       "title": "Ternary Operator with Logical OR",
       "difficulty": "Builder",
       "concepts": [
@@ -2021,11 +2021,11 @@
           "expectedOutput": "1\n2\nSpecial\n4\nSpecial\n6\nSpecial\n8\nSpecial\n10\n"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "ae0074ea-549a-409d-bde4-fd7ad8a4b624",
+      "_id": "55e14c93-8e0b-4752-ada7-3ffa36efcad6",
       "title": "Student Grades Calculator",
       "difficulty": "Explorer",
       "concepts": [
@@ -2060,11 +2060,11 @@
           "expectedOutput": "John 80.0\nJane 50.0"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "1d47cded-f5d9-48ef-a7b9-cbbd88840bbc",
+      "_id": "5b89969a-8f50-48bd-b1a4-ff47cd9efa60",
       "title": "Fruit Inventory",
       "difficulty": "Beginner",
       "concepts": [
@@ -2090,11 +2090,11 @@
           "expectedOutput": "{'apples': 6, 'bananas': 10}"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "1901d5b0-bd6c-47d5-bee4-2d131529ba1f",
+      "_id": "8f52f613-3da3-42d9-958f-b6c212932979",
       "title": "User Data",
       "difficulty": "Explorer",
       "concepts": [
@@ -2130,11 +2130,11 @@
           "expectedOutput": "{'John': {'age': 31, 'city': 'New York'}, 'Jane': {'age': 25, 'city': 'San Francisco'}, 'Bob': {'age': 35, 'city': 'Chicago'}}"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "dcb3361c-ed39-4beb-8596-b6c4f54b3bfc",
+      "_id": "a4273ad3-7d7c-4cb4-84ca-24ff5f910750",
       "title": "Stock Prices",
       "difficulty": "Builder",
       "concepts": [
@@ -2163,11 +2163,11 @@
           "expectedOutput": "{'AAPL': 150.0, 'GOOG': 2000.0}"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "2e198aa3-0c29-497a-b01c-a90d472e4ddc",
+      "_id": "3f921fa7-57c1-486d-8eb6-051e15065f8f",
       "title": "Weather Data",
       "difficulty": "Beginner",
       "concepts": [
@@ -2198,11 +2198,11 @@
           "expectedOutput": "25"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "8730f713-6f77-40eb-82b8-d82b11119615",
+      "_id": "1d9de31e-9840-47fe-9b77-c60e71dad14b",
       "title": "Calculator Function",
       "difficulty": "Beginner",
       "concepts": [
@@ -2250,11 +2250,11 @@
           "expectedOutput": "Invalid operator"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "ec68bd2a-00ae-436f-8295-556a24c980b9",
+      "_id": "9c5a4582-9621-41ba-96f1-16b4af704d4f",
       "title": "Counter Function",
       "difficulty": "Explorer",
       "concepts": [
@@ -2290,11 +2290,11 @@
           "expectedOutput": "2 3"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "44f43da1-a9e1-4bb9-b49c-595c92546da7",
+      "_id": "bfb00985-2639-44d8-906e-01c014d2b517",
       "title": "Average Function",
       "difficulty": "Builder",
       "concepts": [
@@ -2326,11 +2326,11 @@
           "expectedOutput": "3"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "878edcc9-ade1-459f-b29c-c7bb853bb30b",
+      "_id": "43c27cf6-05a7-41c6-aae9-daeac1ba3e16",
       "title": "Function Composition",
       "difficulty": "Builder",
       "concepts": [
@@ -2365,11 +2365,11 @@
           "expectedOutput": "[5, 6, 7, 8, 9]"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     },
     {
-      "_id": "19e5b303-23c8-4978-8b07-d34f053212b8",
+      "_id": "ee07664f-ffd1-46d7-9552-88b669bfbb7d",
       "title": "Function Execution Order Mystery",
       "difficulty": "Beginner",
       "concepts": [
@@ -2402,34 +2402,9 @@
           "expectedOutput": "90.0"
         }
       ],
-      "createdAt": "2026-08-02T08:34:18.817Z",
-      "updatedAt": "2026-08-02T08:34:18.817Z"
+      "createdAt": "2026-08-09T07:55:16.569Z",
+      "updatedAt": "2026-08-09T07:55:16.569Z"
     }
   ],
-  "sessions": [
-    {
-      "_id": "66056a8d-95bb-4988-870f-1801e969f0c4",
-      "learnerName": "Guest learner",
-      "debugChallenge": "0e12ba0e-69cf-4fbd-accc-ca7126e74b87",
-      "scenario": null,
-      "reasoning": "Solved conceptually via AI Code Review: List Slicing Error",
-      "promptText": "",
-      "abstractionMap": [],
-      "generatedCode": "# Goal: Extract the last three user preferences from the list.\npreferences = ['reading', 'hiking', 'swimming', 'fishing', 'cycling']\nprint(preferences[-3:])",
-      "codeExplanation": "The code will throw an IndexError because the slicing operation attempts to access an index out of range.",
-      "promptScore": 100,
-      "promptFeedback": [
-        "Excellent job explaining the logic to the junior dev!"
-      ],
-      "reflection": "",
-      "misconceptions": [],
-      "masterySignals": [
-        "Debugging Mentorship",
-        "lists",
-        "slicing"
-      ],
-      "createdAt": "2026-08-02T08:36:23.636Z",
-      "updatedAt": "2026-08-02T08:36:23.636Z"
-    }
-  ]
+  "sessions": []
 }
