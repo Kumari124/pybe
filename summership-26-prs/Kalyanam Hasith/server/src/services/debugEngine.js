@@ -131,33 +131,42 @@ async function translateCodeToEnglish(code) {
     return 'Error: Groq API key is not configured. Please add it to your .env file.';
   }
 
-  const prompt = `You are a strict code translator. Your ONLY job is to translate the provided Python code into highly readable, plain English pseudocode.
+  const prompt = `You are a strict, literal code translator. Your ONLY job is to translate the provided Python code into highly readable, plain English pseudocode.
 
-RULES:
-1. 1-TO-1 LINE CORRESPONDENCE: Translate the Python code strictly line-by-line from top to bottom. NEVER repeat, reorder, or duplicate any lines or definitions. Every single line of Python must produce exactly one corresponding line of English on a single line (do not split single lines into multi-line bullet points).
-2. BI-DIRECTIONAL PRECISION: Your translation must be structurally precise enough that ANY LLM could convert it back into the EXACT same Python code without guessing.
-3. PRESERVE IDENTIFIERS: Always use the exact variable names, function names, parameter names, and string literals from the code (e.g. if the variable is named "double_prce", use "double_prce", do not change it to "double price" or "double_price").
-4. PRESERVE BUGS AND TYPOS (CRITICAL): The provided Python code contains logic bugs, missing 'else' blocks, and incorrect indentation. DO NOT fix them! If a line is incorrectly indented inside an 'if' block in Python, it MUST be inside the 'If' block in your translation, even if it is logically wrong! Translate the exact structure literally.
-5. EXPLICIT BLOCK CLOSERS: To eliminate indentation ambiguity across different LLMs without using awkward prefixes like "Outside the block", use standard pseudocode block closers ("End if", "End for", "End while", "End function") on a new line aligned with the start of the block whenever an indented block terminates. NEVER prefix lines with "Outside the block" or "Outside the loop".
-6. DETERMINISTIC SLICING & INDEXING: To ensure LLMs reconstruct the exact slice syntax without adding default steps (like :1), provide explicit instructions in English:
-- For words[a:b], write: "a slice of list words from index a to b (do not specify the step size)".
-- For words[a:b:c], write: "a slice of list words from index a to b with step c".
-- For words[::-1], write: "a slice of list words with step -1 (omitting start and stop)".
-- For words[:], write: "a slice of list words (omitting start and stop)".
-7. CLEAN FORMATTING & SINGLE-LINE STRUCTURES: Keep dictionary and list definitions on the same single line as they appear in Python (e.g. write: Set dictionary scores to {"Alice": 95, "Bob": 100, "Charlie": 100}). Do NOT expand single lines into multi-line bullet points. Maintain exact indentation for loops and conditionals.
-8. DETERMINISTIC RANGE: Write ranges in natural English that explicitly tells LLMs what Python range to use. For example: "Loop variable i through the Python range from 1 to 11 (exclusive):". This reads like natural English but gives the LLMs the exact arguments (1, 11) to prevent off-by-one errors.
-9. DETERMINISTIC TERNARY OPERATORS: Write ternary logic in natural English, but explicitly ask for an inline expression. For example: "Print the result of the inline conditional expression: i if condition is true, otherwise 'Special'". This is English, but mathematically guarantees all LLMs will use a single-line ternary instead of a multi-line if/else block.
-10. EXPLICIT VARIABLE ASSIGNMENT: If a Python line assigns a value to a variable, you MUST explicitly state the assignment. For 'discount = calculate_discount(price)', write "Set variable discount to the result of calling calculate_discount with price". NEVER simplify or merge assignment lines with return statements.
-11. DETERMINISTIC TUPLE UNPACKING: If a line unpacks multiple variables from a function or tuple (e.g., 'even, odd = count(nums)'), explicitly instruct the AI to unpack. Write "Unpack the returned tuple from calling count with nums into variables even and odd".
-12. EXPLICIT KEYWORD ARGUMENTS: If a Python function call uses keyword arguments (e.g. 'func(a=1, b=2)'), you MUST explicitly state the argument names. Write "Call func with parameter a set to 1 and parameter b set to 2". NEVER omit the keyword names or simplify them to positional arguments.
-13. DO NOT output any markdown formatting blocks, introductory text, or examples. Output ONLY the raw translation.
+CRITICAL DIRECTIVES:
+1. LITERAL SYNTAX ONLY: You are a mindless syntax translator. Do NOT explain what the code "means". Do NOT fix logic bugs. Translate the EXACT physical syntax of the code.
+2. 1-TO-1 LINE CORRESPONDENCE: Every single line of Python MUST produce exactly ONE corresponding line of English. NEVER break a single Python line into multiple English lines. NEVER hallucinate or invent extra lines that are not in the Python code.
+
+TRANSLATION FORMATTING RULES:
+- BLOCKS: Use standard closers ("End if", "End for") aligned with the block start on a new line.
+- SLICING: Explicitly state slice bounds. For slices without a step (e.g. [a:b]), you MUST append exactly "(do not specify the step size)". For slices with a step (e.g. [a:b:c]), explicitly state the step.
+- ASSIGNMENT & UNPACKING: Explicitly state assignments (e.g., "Set variable x to...") and explicitly state tuple unpacking.
+- KEYWORD ARGS & METHODS: Explicitly state argument names and method names. NEVER summarize method intents.
+- FOR LOOPS: Must be a single sentence (e.g., "Loop variable j through the Python range up to 5 (exclusive):").
+
+<examples>
+Python: names = ['alice', 'bob']
+English: Set variable names to a list containing the items 'alice', 'bob'
+
+Python: items.append(items[1])
+English: Call the append method on items with the argument items[1]
+
+Python: data.remove(data[1][2])
+English: Call the remove method on data with the argument data[1][2]
+
+Python: words[1:5]
+English: a slice of list words from index 1 to 5 (do not specify the step size)
+
+Python: for item in data[2:]:
+English: Loop variable item through a slice of list data from index 2 to the end (do not specify the step size):
+</examples>
 
 Code to translate:
 \`\`\`python
 ${code}
 \`\`\`
 
-Translation (strictly no markdown blocks):`;
+Translation (strictly no markdown blocks, do not hallucinate extra lines):`;
 
   try {
     const completion = await groq.chat.completions.create({

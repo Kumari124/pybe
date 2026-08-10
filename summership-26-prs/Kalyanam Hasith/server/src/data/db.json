@@ -718,37 +718,7 @@
       "createdAt": "2026-08-09T07:55:16.568Z",
       "updatedAt": "2026-08-09T07:55:16.568Z"
     },
-    {
-      "_id": "79216cb6-fa4e-4b87-90fb-30b46397a080",
-      "title": "List Modification Issue",
-      "difficulty": "Beginner",
-      "concepts": [
-        "lists"
-      ],
-      "context": "You are building a program to track the inventory of a store. You want to remove the first item from the stock.",
-      "buggyCode": "# Goal: Remove the first item from the stock\nstock = ['laptop', 'phone', 'tablet']\nstock.remove(stock[0][0])",
-      "solutionCode": "# Goal: Remove the first item from the stock\nstock = ['laptop', 'phone', 'tablet']\nstock.pop(0)",
-      "expectedLogic": [
-        "1. Identify the item to remove (in this case, the first item).",
-        "2. Use the pop() method to remove the specified item from the list."
-      ],
-      "stripVariables": [
-        "stock"
-      ],
-      "hints": [
-        "Hint: Think about how to specify the item to remove.",
-        "Hint: Consider using the pop() method to remove an item by its index."
-      ],
-      "bugExplanation": "The original code fails because it tries to remove a character from the string at index 0, rather than the string itself.",
-      "testCases": [
-        {
-          "setupCode": "",
-          "expectedOutput": "\"[\"phone\",\"tablet\"]\""
-        }
-      ],
-      "createdAt": "2026-08-09T07:55:16.568Z",
-      "updatedAt": "2026-08-09T07:55:16.568Z"
-    },
+
     {
       "_id": "5759389e-3738-4774-ba28-c15323d48363",
       "title": "Infinite Loop",

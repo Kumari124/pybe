@@ -414,34 +414,7 @@ const debugChallenges = [
       }
     ]
   },
-  {
-    "title": "List Modification Issue",
-    "difficulty": "Beginner",
-    "concepts": [
-      "lists"
-    ],
-    "context": "You are building a program to track the inventory of a store. You want to remove the first item from the stock.",
-    "buggyCode": "# Goal: Remove the first item from the stock\nstock = ['laptop', 'phone', 'tablet']\nstock.remove(stock[0][0])",
-    "solutionCode": "# Goal: Remove the first item from the stock\nstock = ['laptop', 'phone', 'tablet']\nstock.pop(0)",
-    "expectedLogic": [
-      "1. Identify the item to remove (in this case, the first item).",
-      "2. Use the pop() method to remove the specified item from the list."
-    ],
-    "stripVariables": [
-      "stock"
-    ],
-    "hints": [
-      "Hint: Think about how to specify the item to remove.",
-      "Hint: Consider using the pop() method to remove an item by its index."
-    ],
-    "bugExplanation": "The original code fails because it tries to remove a character from the string at index 0, rather than the string itself.",
-    "testCases": [
-      {
-        "setupCode": "",
-        "expectedOutput": "\"[\"phone\",\"tablet\"]\""
-      }
-    ]
-  },
+
   {
     "title": "Infinite Loop",
     "difficulty": "Beginner",
