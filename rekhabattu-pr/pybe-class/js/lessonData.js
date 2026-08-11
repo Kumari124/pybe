@@ -728,19 +728,19 @@ const SCREEN_10 = {
   examples: [
     {
       key: 'student', label: 'Priya',
-      illustration: '<div class="match-photo"><img src="./Student.png" alt="Priya student card"/></div>',
+      illustration: '<div class="match-photo"><img src="./assets/Student.png" alt="Priya student card"/></div>',
     },
     {
       key: 'person', label: 'Michael',
-      illustration: '<div class="match-photo"><img src="./Michael.jpeg" alt="Michael"/></div>',
+      illustration: '<div class="match-photo"><img src="./assets/Michael.jpeg" alt="Michael"/></div>',
     },
     {
       key: 'car', label: 'Tata Punch',
-      illustration: '<div class="match-photo"><img src="./TATA-punch.jpeg" alt="Tata Punch"/></div>',
+      illustration: '<div class="match-photo"><img src="./assets/TATA-punch.jpeg" alt="Tata Punch"/></div>',
     },
     {
       key: 'flower', label: 'Tulip',
-      illustration: '<div class="match-photo"><img src="./Tulip.jpeg" alt="Tulip"/></div>',
+      illustration: '<div class="match-photo"><img src="./assets/Tulip.jpeg" alt="Tulip"/></div>',
     },
   ],
   reveal: [
@@ -815,3 +815,4 @@ const LESSON_SCREENS = [
    Keep the progress bar aligned with the screens that exist.
    --------------------------------------------------------- */
 const TOTAL_SCREENS = LESSON_SCREENS.length;
+
